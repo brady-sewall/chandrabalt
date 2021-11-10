@@ -1,13 +1,15 @@
 {
     "name": "chandrabalt",
     "displayName": "Chandrabalt",
-    "description": "If Cobalt2 and Chandrian had a baby",
+    "description": "A Cobalt2 and Chandrian theme lovechild",
     "version": "0.0.4",
     "publisher": "MrBrady",
+    "license": "MIT",
     "repository": {
         "type": "git",
         "url": "https://github.com/voggymoonbow/chandrabalt"
     },
+    "icon": "icon.png",
     "keywords": [
         "theme",
         "dark theme",
