@@ -393,7 +393,7 @@
         "source.css meta.attribute-selector"
       ],
       "settings": {
-        "foreground": "#46BD66"
+        "foreground": "#4fd373"
       }
     },
     {
@@ -637,7 +637,7 @@
         "punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#46BD66"
+        "foreground": "#4fd373"
       }
     },
     {
@@ -672,7 +672,7 @@
         "string.interpolated"
       ],
       "settings": {
-        "foreground": "#9FD44E"
+        "foreground": "#b4f058"
       }
     },
     {
@@ -683,7 +683,7 @@
         "keyword.other.template.end"
       ],
       "settings": {
-        "foreground": "#9FD44E7F"
+        "foreground": "#b4f0587F"
       }
     },
     {
@@ -691,7 +691,7 @@
         "punctuation.definition.template-expression"
       ],
       "settings": {
-        "foreground": "#46BD66"
+        "foreground": "#4fd373"
       }
     },
     {
@@ -834,7 +834,7 @@
         "string.quoted.jsx"
       ],
       "settings": {
-        "foreground": "#46BD66"
+        "foreground": "#4fd373"
       }
     },
     {
@@ -851,7 +851,7 @@
         "meta.attribute.style.html string.quoted.double.html source.css"
       ],
       "settings": {
-        "foreground": "#9FD44E"
+        "foreground": "#b4f058"
       }
     },
     {
@@ -861,7 +861,7 @@
         "meta.attribute.style.html punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#9FD44EBF"
+        "foreground": "#b4f058BF"
       }
     },
     {
@@ -897,7 +897,7 @@
         "meta.tag.metadata.link.void.html meta.attribute.href.html punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#46BD66"
+        "foreground": "#4fd373"
       }
     },
     {
@@ -922,7 +922,7 @@
         "meta.embedded.line.css source.css"
       ],
       "settings": {
-        "foreground": "#46BD66"
+        "foreground": "#4fd373"
       }
     },
     {
