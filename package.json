@@ -3,6 +3,19 @@
     "displayName": "Chandrabalt",
     "description": "If Cobalt2 and Chandrian Owl had a baby",
     "version": "0.0.1",
+    "publisher": "MrBrady",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/voggymoonbow/chandrabalt"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "cobalt",
+        "chandrian",
+        "blue",
+        "semantic syntax highlighting"
+    ],
     "engines": {
         "vscode": "^1.62.0"
     },
